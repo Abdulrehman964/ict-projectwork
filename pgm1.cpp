@@ -1,4 +1,4 @@
-abcd#include<stdio.h>
+#include<stdio.h>
 int factorial(int n)
 {
 	if(n==0||n==1)
